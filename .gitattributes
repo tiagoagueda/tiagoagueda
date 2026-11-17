@@ -1,0 +1,2 @@
+# LF everywhere, Windows included: the pre-commit hook is a shell script and breaks with CRLF.
+* text=auto eol=lf

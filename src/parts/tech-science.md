@@ -1,0 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![VASP](https://img.shields.io/badge/VASP-4B5563?style=flat-square&logoColor=white)
+![ABINIT](https://img.shields.io/badge/ABINIT-4B5563?style=flat-square&logoColor=white)

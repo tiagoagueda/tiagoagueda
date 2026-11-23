@@ -1,2 +1,2 @@
-# LF everywhere, Windows included: the pre-commit hook is a shell script and breaks with CRLF.
+# LF everywhere, Windows included, so the READMEs rendered in CI match a local build byte for byte.
 * text=auto eol=lf

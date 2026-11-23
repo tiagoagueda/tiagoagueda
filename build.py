@@ -16,6 +16,9 @@ The same commit is pushed to both sites, and each one picks different files:
              at the top.
 
 So edit the files in src/, never the READMEs: they are overwritten on every build.
+The Forgejo workflow in .forgejo/workflows/build.yml runs this script on every push
+to main that touches src/ and commits the result, so running it by hand is only
+needed to preview a change before pushing it.
 
     src/profile.md       English, the default
     src/profile.fr.md    French
